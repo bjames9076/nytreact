@@ -4,7 +4,6 @@
 // Include React
 var React = require("react");
 
-// UN COMMENT ALL THESE LATER!
 // Here we include all of the sub-components
 var Query = require("./Query.jsx");
 var Search = require("./Search.jsx");

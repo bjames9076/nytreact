@@ -24,6 +24,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "babel-plugin-transform-react-jsx-compat": "^6.24.1"
+    "babel-plugin-transform-react-jsx-compat": "^6.24.1",
+    "webpack": "^3.11.0"
   }
 }

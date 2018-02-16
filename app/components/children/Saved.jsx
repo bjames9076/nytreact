@@ -41,7 +41,6 @@ var Saved = React.createClass({
   // Here we render the Search Results Panel
   render: function() {
 
-    // http://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method
     // another way could be using the bind() function. but why not try it this way too.
     var that = this;
 
